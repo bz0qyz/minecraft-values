@@ -4,3 +4,11 @@ motd:
     - "Warble Bink!"
     - "Mine your business"
     - "dig motherfucker"
+
+mods:
+  - name: jei
+    version: 15.3.0.4
+    url: https://edge.forgecdn.net/files/4576/123/jei-1.20.1-forge-15.3.0.4.jar
+  - name: jade
+    version: 11.8.0
+    url: https://edge.forgecdn.net/files/4632/456/Jade-1.20.1-forge-11.8.0.jar
