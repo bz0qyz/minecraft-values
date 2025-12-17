@@ -1,0 +1,6 @@
+motd:
+  enabled: true
+  pool:
+    - "Warble Bink!"
+    - "Mine your business"
+    - "dig motherfucker"
