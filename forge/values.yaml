@@ -7,8 +7,6 @@ motd:
 
 mods:
   - name: jei
-    version: 15.3.0.4
-    url: https://edge.forgecdn.net/files/4576/123/jei-1.20.1-forge-15.3.0.4.jar
-  - name: jade
-    version: 11.8.0
-    url: https://edge.forgecdn.net/files/4632/456/Jade-1.20.1-forge-11.8.0.jar
+    url: https://mediafilez.forgecdn.net/files/6614/392/jei-1.21.1-neoforge-19.21.2.313.jar
+  - name: sophisticatedbackpacks
+    url: https://mediafilez.forgecdn.net/files/7343/948/sophisticatedbackpacks-1.21.11-3.25.18.1452.jar
